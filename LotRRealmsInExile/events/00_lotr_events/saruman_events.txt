@@ -514,6 +514,22 @@ saruman.0045 = { # Union of the Two Towers
 	}
 }
 
+saruman.0500 = {
+	hidden = yes
+
+	trigger = {
+		culture = culture:istari
+	}
+
+	immediate = {
+		random_councillor = {
+			limit = {
+				has_council_position = councillor_court_chaplain
+			}
+			set_culture = culture:isengard_dunlending
+		}
+	}
+}
 
 
 
