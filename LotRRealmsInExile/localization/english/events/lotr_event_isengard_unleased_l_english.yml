@@ -20,7 +20,7 @@
  saruman.0003.t:0 "The palantír"
  saruman.0003.desc:0 "In the darkness of your throne room, the black cloth is lifted, you reach out towards the crystal ball and command it to show you the One Ring. It respects your power and sweeps over the Gladden Fields. The scene is visible, wilderness of marshlands, the Gladden Fields, where you have searched ceaselessly to discover the Ring. It is not there. You search further and are directed over Mirkwood and towards the Sea of Rhûn, where you observe the endless armies of the Men of Rhûn, but someone else is watching.\n\nSauron has found you; concealed within his fortress, the Lord of Mordor sees all with the captured Ithil Stone, palantír of Minas Ithil. His form is a great eye, lidless, wreathed in flame. His reaching flames pierce through the palantír and drive into your arms, he is seeking to learn your designs. The vision of the palantír shifts to scenes of Sauron’s utter conquest of the east and south. Sauron does not know yet of your purpose, but you must either deceive him or fight for control of the palantír."
  saruman.0003.a:0 "Saruman pledges allegiance to you, lord Sauron."
- saruman.0003.a.tt:0 = "Pledge allegiance to Sauron, convert to the Counsels of Sauron. Continue your search to claim the One Ring."
+ saruman.0003.a.tt:0 "Pledge allegiance to Sauron, convert to the Counsels of Sauron. Continue your search to claim the One Ring."
  saruman.0003.b:0 "You shall not have the Orthanc Stone, Dark Lord."
  saruman.0003.a.tt:0 "Strive against Sauron, wrest control over the Orthanc Stone."
  
@@ -76,36 +76,15 @@
  isengard_invasion_war_victory_desc:0 "[attacker.GetShortUIName|U] seizes all titles within [defender.GetShortUINamePossessive] realm belonging [de_jure|E] to the target title."
  
  isengard_orc_event_troops:0 "Orcs of Isengard"
- orc_warriors:0 "Orc Warriors"
- orc_warriors_flavor:0 "A horde of orcs. They don't wanna go to war today."
- orc_archers:0 "Orc Archers"
- orc_archers_flavor:0 "A horde of orc archers, they want easy pickings."
- mountainorc_warriors:0 "Mountain Orc Warriors"
- mountainorc_warriors_flavor:0 "Born and bred in the Misty Mountains."
+
  
  isengard_uruk_event_troops:0 "Uruk-hai of Isengard"
- urukhai_fighting:0 "Fighting Uruk-hai"
- urukhai_fighting_flavor:0 "Their bite and bark are equally painful."
- urukhai_crossbowmen:0 "Uruk-hai Crossbowmen"
- urukhai_crossbowmen_flavor:0 ""
- urukhai_pikemen:0 "Uruk-hai Pikemen"
- urukhai_pikemen_flavor:0 ""
- urukhai_berserker:0 "Uruk-hai Berserkers"
- urukhai_berserker_flavor:0 ""
- urukhai_sappers:0 "Uruk-hai Sappers"
- urukhai_sappers_flavor:0 ""
- urukhai_ballista:0 "Uruk-hai Ballista"
- urukhai_ballista_flavor:0 ""
+
  
  decision_isengard_uruk_event_troops:0 "Uruk-hai of Isengard"
  
  spawn_isengard_dunlending_troops_effect:0 "Wildmen of Dunland"
- dunlending_huscarl:0 "Dunlending Huscarl"
- dunlending_huscarl_flavor:0 ""
- dunlending_longbowmen:0 "Dunlending Longbowmen"
- dunlending_longbowmen_flavor:0 ""
- dunlending_outriders:0 "Dunlending Outriders"
- dunlending_outriders_flavor:0 ""
+
  
  
  
