@@ -15,6 +15,7 @@ house_brynjar = { # House of Brynjar anscetor of Freca
 dynasty_isildur = {
 	name = "dynn_isildur"
 	dynasty = dynasty_kingsofnumenor #(Line of Elros)
+	motto = dynn_isildur_motto
 }
 dynasty_andunie = {
 	name = "dynn_andunie"
