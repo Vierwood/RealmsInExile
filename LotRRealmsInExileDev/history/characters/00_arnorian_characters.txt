@@ -1,65 +1,86 @@
+
+lineisildur0 = {
+	name = "Isildur"
+	
+	dynasty_house = dynasty_isildur	
+	religion = free_peoples
+	culture = dunedain
+
+	1.1.1 = {
+		birth = "1.1.1"
+	}
+
+	144.1.1 = {
+		death = "144.1.1"
+	}
+}
+
+
+
+
+
 lineisildur1 = {
 	name = "Elendur"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
-	father = numlineandunie22
+	father = lineisildur0
 
-	-142.1.1 = {
-		birth = "-142.1.1"
+	20.1.1 = {
+		birth = "20.1.1"
 	}
 
-	2.1.1 = {
-		death = "2.1.1"
+	144.1.1 = {
+		death = "144.1.1"
 	}
 }
 lineisildur2 = {
 	name = "Aratan"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
-	father = numlineandunie22
+	father = lineisildur0
 
-	-102.1.1 = {
-		birth = "-102.1.1"
+	23.1.1 = {
+		birth = "23.1.1"
 	}
 
-	2.1.1 = {
-		death = "2.1.1"
+	144.1.1 = {
+		death = "144.1.1"
 	}
 }
 lineisildur3 = {
 	name = "Ciryon"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
-	father = numlineandunie22
+	father = lineisildur0
 
-	-62.1.1 = {
-		birth = "-62.1.1"
+	40.1.1 = {
+		birth = "40.1.1"
 	}
 
-	2.1.1 = {
-		death = "2.1.1"
+	144.1.1 = {
+		death = "144.1.1"
 	}
 }
 lineisildur4 = {
 	name = "Valandil"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
-	father = numlineandunie22
+	father = lineisildur0
 
-	-11.1.1 = {
-		birth = "-11.1.1"
+	44.1.1 = {
+		birth = "44.1.1"
 	}
 
 	249.1.1 = {
@@ -69,7 +90,7 @@ lineisildur4 = {
 lineisildur5 = {
 	name = "Eldacar"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -86,7 +107,7 @@ lineisildur5 = {
 lineisildur6 = {
 	name = "Arantar"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -103,7 +124,7 @@ lineisildur6 = {
 lineisildur7 = {
 	name = "Tarcil"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -120,7 +141,7 @@ lineisildur7 = {
 lineisildur8 = {
 	name = "Tarondor"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -137,7 +158,7 @@ lineisildur8 = {
 lineisildur9 = {
 	name = "Valandur"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -154,7 +175,7 @@ lineisildur9 = {
 lineisildur10 = {
 	name = "Elendur"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -171,7 +192,7 @@ lineisildur10 = {
 lineisildur11 = {
 	name = "Eärendur"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -188,7 +209,7 @@ lineisildur11 = {
 lineisildur12 = {
 	name = "Amlaith"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -205,7 +226,7 @@ lineisildur12 = {
 lineisildur13 = {
 	name = "Beleg"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -222,7 +243,7 @@ lineisildur13 = {
 lineisildur14 = {
 	name = "Mallor"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -239,7 +260,7 @@ lineisildur14 = {
 lineisildur15 = {
 	name = "Celepharn"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -256,7 +277,7 @@ lineisildur15 = {
 lineisildur16 = {
 	name = "Celebrindor"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -273,7 +294,7 @@ lineisildur16 = {
 lineisildur17 = {
 	name = "Malvegil"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -290,7 +311,7 @@ lineisildur17 = {
 lineisildur18 = {
 	name = "Argeleb"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -307,7 +328,7 @@ lineisildur18 = {
 lineisildur19 = {
 	name = "Arveleg"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -324,7 +345,7 @@ lineisildur19 = {
 lineisildur20 = {
 	name = "Araphor"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -341,7 +362,7 @@ lineisildur20 = {
 lineisildur21 = {
 	name = "Argeleb"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -358,7 +379,7 @@ lineisildur21 = {
 lineisildur22 = {
 	name = "Arvegil"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -375,7 +396,7 @@ lineisildur22 = {
 lineisildur23 = {
 	name = "Arveleg"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -392,7 +413,7 @@ lineisildur23 = {
 lineisildur24 = {
 	name = "Araval"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -409,7 +430,7 @@ lineisildur24 = {
 lineisildur25 = {
 	name = "Araphant"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -426,7 +447,7 @@ lineisildur25 = {
 lineisildur26 = {
 	name = "Arvedui"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -446,7 +467,7 @@ lineisildur26 = {
 lineisildur27 = {
 	name = "Aranarth"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -464,7 +485,7 @@ lineisildur27 = {
 lineisildur28 = {
 	name = "Arahael"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -481,7 +502,7 @@ lineisildur28 = {
 lineisildur29 = {
 	name = "Aranuir"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -498,7 +519,7 @@ lineisildur29 = {
 lineisildur30 = {
 	name = "Aravir"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -515,7 +536,7 @@ lineisildur30 = {
 lineisildur31 = {
 	name = "Aragorn"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -532,7 +553,7 @@ lineisildur31 = {
 lineisildur32 = {
 	name = "Araglas"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -549,7 +570,7 @@ lineisildur32 = {
 lineisildur33 = {
 	name = "Arahad"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -566,7 +587,7 @@ lineisildur33 = {
 lineisildur34 = {
 	name = "Aragost"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -583,7 +604,7 @@ lineisildur34 = {
 lineisildur35 = {
 	name = "Aravorn"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -600,7 +621,7 @@ lineisildur35 = {
 lineisildur36 = {
 	name = "Arahad"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -617,7 +638,7 @@ lineisildur36 = {
 lineisildur37 = {
 	name = "Arassuil"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -634,7 +655,7 @@ lineisildur37 = {
 lineisildur38 = {
 	name = "Arathorn"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -651,7 +672,7 @@ lineisildur38 = {
 lineisildur39 = {
 	name = "Argonui"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -668,7 +689,7 @@ lineisildur39 = {
 lineisildur40 = {
 	name = "Arador"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -685,7 +706,7 @@ lineisildur40 = {
 lineisildur41 = {
 	name = "Arathorn"
 	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
 	
@@ -702,18 +723,18 @@ lineisildur41 = {
 lineisildur42 = {
 	name = "Aragorn"
 	
-	dna = aragorn_dna_1
-	
-	dynasty_house = dynastyisildur	
+	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
-	dna = lineisildur42_aragorn
+	dna = aragorn_dna_1
 	
 	father = lineisildur41
 	
 	trait = education_martial_4
 	trait = blademaster_3
-	trait = physique_good_2
+	trait = physique_good_1
+	trait = beauty_good_1
+	trait = intellect_good_2
 	trait = compassionate
 	trait = just
 	trait = brave
@@ -733,7 +754,7 @@ lineisildur42 = {
 linecardolan1 = {
 	name = "Thorondor"
 	
-	dynasty_house = dynastycardolan
+	dynasty_house = dynasty_cardolan
 	religion = free_peoples
 	culture = dunedain
 	
@@ -751,7 +772,7 @@ linecardolan1 = {
 linecardolan2 = {
 	name = "Turambar"
 	
-	dynasty_house = dynastycardolan
+	dynasty_house = dynasty_cardolan
 	religion = free_peoples
 	culture = dunedain
 	
@@ -769,7 +790,7 @@ linecardolan2 = {
 linecardolan3 = {
 	name = "Ciryon"
 	
-	dynasty_house = dynastycardolan
+	dynasty_house = dynasty_cardolan
 	religion = free_peoples
 	culture = dunedain
 	
@@ -787,7 +808,7 @@ linecardolan3 = {
 linecardolan4 = {
 	name = "Tarandil"
 	
-	dynasty_house = dynastycardolan
+	dynasty_house = dynasty_cardolan
 	religion = free_peoples
 	culture = dunedain
 	
@@ -805,7 +826,7 @@ linecardolan4 = {
 linecardolan5 = {
 	name = "Calimendil"
 	
-	dynasty_house = dynastycardolan
+	dynasty_house = dynasty_cardolan
 	religion = free_peoples
 	culture = dunedain
 	
@@ -827,7 +848,7 @@ linecardolan5 = {
 linerhudaur1 = {
 	name = "Aldarion"
 	
-	dynasty_house = dynastyrhudaur
+	dynasty_house = dynasty_rhudaur
 	religion = free_peoples
 	culture = dunedain
 	
@@ -844,7 +865,7 @@ linerhudaur1 = {
 linerhudaur2 = {
 	name = "Orodreth"
 	
-	dynasty_house = dynastyrhudaur
+	dynasty_house = dynasty_rhudaur
 	religion = free_peoples
 	culture = dunedain
 	
@@ -861,7 +882,7 @@ linerhudaur2 = {
 linerhudaur3 = {
 	name = "Orodor"
 	
-	dynasty_house = dynastyrhudaur
+	dynasty_house = dynasty_rhudaur
 	religion = free_peoples
 	culture = dunedain
 	
@@ -878,7 +899,7 @@ linerhudaur3 = {
 linerhudaur4 = {
 	name = "Olórendil"
 	
-	dynasty_house = dynastyrhudaur
+	dynasty_house = dynasty_rhudaur
 	religion = free_peoples
 	culture = dunedain
 	
@@ -895,7 +916,7 @@ linerhudaur4 = {
 linerhudaur5 = {
 	name = "Ohtar"
 	
-	dynasty_house = dynastyrhudaur
+	dynasty_house = dynasty_rhudaur
 	religion = free_peoples
 	culture = dunedain
 	
