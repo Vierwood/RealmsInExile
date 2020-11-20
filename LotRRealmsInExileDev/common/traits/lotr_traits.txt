@@ -72,6 +72,25 @@ blood_of_numenor_traces = {
 	}
 }
 
+blood_of_numenor_faint = {
+	index = 702
+	icon = numenorean_blood_faint.dds
+	
+	both_parent_has_trait_inherit_chance = 100
+	inherit_chance = 50
+	
+	negate_health_penalty_add = 0.1
+	health = 0.1
+	life_expectancy = 30
+	
+	same_opinion = 25
+	same_faith_opinion = 25
+	
+	potential = {
+		lotr_numenor_culture_trigger = yes
+	}
+}
+
 
 
 ### COMBAT TRAITS ###
