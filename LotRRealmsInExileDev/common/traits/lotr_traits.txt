@@ -27,7 +27,7 @@ istari = {
 	#set_immortal_age = 60 this goes to on_actions or events
 }
 
-blood_of_numenor = {
+blood_of_numenor_3 = {
 	index = 700
 	icon = actualnumenorean.dds
 	martial = 1
@@ -51,7 +51,7 @@ blood_of_numenor = {
 	}
 }
 
-blood_of_numenor_traces = {
+blood_of_numenor_2 = {
 	index = 701
 	icon = numenorean_bloodline.dds
 	
@@ -72,7 +72,7 @@ blood_of_numenor_traces = {
 	}
 }
 
-blood_of_numenor_faint = {
+blood_of_numenor_1 = {
 	index = 702
 	icon = numenorean_blood_faint.dds
 	
