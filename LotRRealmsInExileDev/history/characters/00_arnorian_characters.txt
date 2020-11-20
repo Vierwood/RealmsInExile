@@ -5,6 +5,8 @@ lineisildur0 = {
 	dynasty_house = dynasty_isildur	
 	religion = free_peoples
 	culture = dunedain
+	
+	trait = blood_of_numenor
 
 	1.1.1 = {
 		birth = "1.1.1"
@@ -27,6 +29,8 @@ lineisildur1 = {
 	culture = dunedain
 	
 	father = lineisildur0
+	
+	trait = blood_of_numenor
 
 	20.1.1 = {
 		birth = "20.1.1"
@@ -44,6 +48,8 @@ lineisildur2 = {
 	culture = dunedain
 	
 	father = lineisildur0
+	
+	trait = blood_of_numenor
 
 	23.1.1 = {
 		birth = "23.1.1"
@@ -61,6 +67,8 @@ lineisildur3 = {
 	culture = dunedain
 	
 	father = lineisildur0
+	
+	trait = blood_of_numenor
 
 	40.1.1 = {
 		birth = "40.1.1"
@@ -78,6 +86,8 @@ lineisildur4 = {
 	culture = dunedain
 	
 	father = lineisildur0
+	
+	trait = blood_of_numenor
 
 	44.1.1 = {
 		birth = "44.1.1"
@@ -95,6 +105,8 @@ lineisildur5 = {
 	culture = dunedain
 	
 	father = lineisildur4
+	
+	trait = blood_of_numenor
 
 	87.1.1 = {
 		birth = "87.1.1"
@@ -112,6 +124,8 @@ lineisildur6 = {
 	culture = dunedain
 	
 	father = lineisildur5
+	
+	trait = blood_of_numenor
 
 	185.1.1 = {
 		birth = "185.1.1"
@@ -129,6 +143,8 @@ lineisildur7 = {
 	culture = dunedain
 	
 	father = lineisildur6
+	
+	trait = blood_of_numenor
 
 	280.1.1 = {
 		birth = "280.1.1"
@@ -146,6 +162,8 @@ lineisildur8 = {
 	culture = dunedain
 	
 	father = lineisildur7
+	
+	trait = blood_of_numenor
 
 	372.1.1 = {
 		birth = "372.1.1"
@@ -163,6 +181,8 @@ lineisildur9 = {
 	culture = dunedain
 	
 	father = lineisildur8
+	
+	trait = blood_of_numenor
 
 	462.1.1 = {
 		birth = "462.1.1"
@@ -180,6 +200,8 @@ lineisildur10 = {
 	culture = dunedain
 	
 	father = lineisildur9
+	
+	trait = blood_of_numenor
 
 	552.1.1 = {
 		birth = "552.1.1"
@@ -197,6 +219,8 @@ lineisildur11 = {
 	culture = dunedain
 	
 	father = lineisildur10
+	
+	trait = blood_of_numenor
 
 	640.1.1 = {
 		birth = "640.1.1"
@@ -214,6 +238,8 @@ lineisildur12 = {
 	culture = dunedain
 	
 	father = lineisildur11
+	
+	trait = blood_of_numenor
 
 	726.1.1 = {
 		birth = "726.1.1"
@@ -231,6 +257,8 @@ lineisildur13 = {
 	culture = dunedain
 	
 	father = lineisildur12
+	
+	trait = blood_of_numenor
 
 	811.1.1 = {
 		birth = "811.1.1"
@@ -248,6 +276,8 @@ lineisildur14 = {
 	culture = dunedain
 	
 	father = lineisildur13
+	
+	trait = blood_of_numenor
 
 	895.1.1 = {
 		birth = "895.1.1"
@@ -265,6 +295,8 @@ lineisildur15 = {
 	culture = dunedain
 	
 	father = lineisildur14
+	
+	trait = blood_of_numenor
 
 	979.1.1 = {
 		birth = "979.1.1"
@@ -282,6 +314,8 @@ lineisildur16 = {
 	culture = dunedain
 	
 	father = lineisildur15
+	
+	trait = blood_of_numenor
 
 	1062.1.1 = {
 		birth = "1062.1.1"
@@ -299,6 +333,8 @@ lineisildur17 = {
 	culture = dunedain
 	
 	father = lineisildur16
+	
+	trait = blood_of_numenor
 
 	1144.1.1 = {
 		birth = "1144.1.1"
@@ -316,6 +352,8 @@ lineisildur18 = {
 	culture = dunedain
 	
 	father = lineisildur17
+	
+	trait = blood_of_numenor
 
 	1226.1.1 = {
 		birth = "1226.1.1"
@@ -333,6 +371,8 @@ lineisildur19 = {
 	culture = dunedain
 	
 	father = lineisildur18
+	
+	trait = blood_of_numenor
 
 	1309.1.1 = {
 		birth = "1309.1.1"
@@ -350,6 +390,8 @@ lineisildur20 = {
 	culture = dunedain
 	
 	father = lineisildur19
+	
+	trait = blood_of_numenor
 
 	1391.1.1 = {
 		birth = "1391.1.1"
@@ -367,6 +409,8 @@ lineisildur21 = {
 	culture = dunedain
 	
 	father = lineisildur20
+	
+	trait = blood_of_numenor
 
 	1473.1.1 = {
 		birth = "1473.1.1"
@@ -384,6 +428,8 @@ lineisildur22 = {
 	culture = dunedain
 	
 	father = lineisildur21
+	
+	trait = blood_of_numenor
 
 	1553.1.1 = {
 		birth = "1553.1.1"
@@ -401,6 +447,8 @@ lineisildur23 = {
 	culture = dunedain
 	
 	father = lineisildur22
+	
+	trait = blood_of_numenor
 
 	1633.1.1 = {
 		birth = "1633.1.1"
@@ -418,6 +466,8 @@ lineisildur24 = {
 	culture = dunedain
 	
 	father = lineisildur23
+	
+	trait = blood_of_numenor
 
 	1711.1.1 = {
 		birth = "1711.1.1"
@@ -435,6 +485,8 @@ lineisildur25 = {
 	culture = dunedain
 	
 	father = lineisildur24
+	
+	trait = blood_of_numenor
 
 	1789.1.1 = {
 		birth = "1789.1.1"
@@ -452,6 +504,8 @@ lineisildur26 = {
 	culture = dunedain
 	
 	father = lineisildur25
+	
+	trait = blood_of_numenor
 
 	1864.1.1 = {
 		birth = "1864.1.1"
@@ -473,6 +527,8 @@ lineisildur27 = {
 	
 	father = lineisildur26
 	mother = lineanarion39
+	
+	trait = blood_of_numenor
 
 	1938.1.1 = {
 		birth = "1938.1.1"
@@ -490,6 +546,8 @@ lineisildur28 = {
 	culture = dunedain
 	
 	father = lineisildur27
+	
+	trait = blood_of_numenor
 
 	2012.1.1 = {
 		birth = "2012.1.1"
@@ -507,6 +565,8 @@ lineisildur29 = {
 	culture = dunedain
 	
 	father = lineisildur28
+	
+	trait = blood_of_numenor
 
 	2084.1.1 = {
 		birth = "2084.1.1"
@@ -524,6 +584,8 @@ lineisildur30 = {
 	culture = dunedain
 	
 	father = lineisildur29
+	
+	trait = blood_of_numenor
 
 	2156.1.1 = {
 		birth = "2156.1.1"
@@ -541,6 +603,8 @@ lineisildur31 = {
 	culture = dunedain
 	
 	father = lineisildur30
+	
+	trait = blood_of_numenor
 
 	2227.1.1 = {
 		birth = "2227.1.1"
@@ -558,6 +622,8 @@ lineisildur32 = {
 	culture = dunedain
 	
 	father = lineisildur31
+	
+	trait = blood_of_numenor
 
 	2296.1.1 = {
 		birth = "2296.1.1"
@@ -575,6 +641,8 @@ lineisildur33 = {
 	culture = dunedain
 	
 	father = lineisildur32
+	
+	trait = blood_of_numenor
 
 	2365.1.1 = {
 		birth = "2365.1.1"
@@ -592,6 +660,8 @@ lineisildur34 = {
 	culture = dunedain
 	
 	father = lineisildur33
+	
+	trait = blood_of_numenor
 
 	2431.1.1 = {
 		birth = "2431.1.1"
@@ -609,6 +679,8 @@ lineisildur35 = {
 	culture = dunedain
 	
 	father = lineisildur34
+	
+	trait = blood_of_numenor
 
 	2497.1.1 = {
 		birth = "2497.1.1"
@@ -626,6 +698,8 @@ lineisildur36 = {
 	culture = dunedain
 	
 	father = lineisildur35
+	
+	trait = blood_of_numenor
 
 	2563.1.1 = {
 		birth = "2563.1.1"
@@ -643,6 +717,8 @@ lineisildur37 = {
 	culture = dunedain
 	
 	father = lineisildur36
+	
+	trait = blood_of_numenor
 
 	2628.1.1 = {
 		birth = "2628.1.1"
@@ -660,6 +736,8 @@ lineisildur38 = {
 	culture = dunedain
 	
 	father = lineisildur37
+	
+	trait = blood_of_numenor
 
 	2693.1.1 = {
 		birth = "2693.1.1"
@@ -677,6 +755,8 @@ lineisildur39 = {
 	culture = dunedain
 	
 	father = lineisildur38
+	
+	trait = blood_of_numenor
 
 	2757.1.1 = {
 		birth = "2757.1.1"
@@ -694,6 +774,8 @@ lineisildur40 = {
 	culture = dunedain
 	
 	father = lineisildur39
+	
+	trait = blood_of_numenor
 
 	2820.1.1 = {
 		birth = "2820.1.1"
@@ -711,6 +793,8 @@ lineisildur41 = {
 	culture = dunedain
 	
 	father = lineisildur40
+	
+	trait = blood_of_numenor
 
 	2873.1.1 = {
 		birth = "2873.1.1"
@@ -730,10 +814,10 @@ lineisildur42 = {
 	
 	father = lineisildur41
 	
+	trait = blood_of_numenor
 	trait = education_martial_4
 	trait = blademaster_3
-	trait = physique_good_1
-	trait = beauty_good_1
+	trait = physique_good_2
 	trait = intellect_good_2
 	trait = compassionate
 	trait = just
@@ -759,6 +843,8 @@ linecardolan1 = {
 	culture = dunedain
 	
 	father = lineisildur11
+	
+	trait = blood_of_numenor
 
 	737.1.1 = {
 		birth = "737.1.1"
@@ -777,6 +863,8 @@ linecardolan2 = {
 	culture = dunedain
 	
 	father = linecardolan1
+	
+	trait = blood_of_numenor
 
 	834.1.1 = {
 		birth = "834.1.1"
@@ -795,6 +883,8 @@ linecardolan3 = {
 	culture = dunedain
 	
 	father = linecardolan2
+	
+	trait = blood_of_numenor
 
 	942.1.1 = {
 		birth = "942.1.1"
@@ -813,6 +903,8 @@ linecardolan4 = {
 	culture = dunedain
 	
 	father = linecardolan3
+	
+	trait = blood_of_numenor
 
 	1051.1.1 = {
 		birth = "1051.1.1"
@@ -831,6 +923,8 @@ linecardolan5 = {
 	culture = dunedain
 	
 	father = linecardolan4
+	
+	trait = blood_of_numenor
 
 	1167.1.1 = {
 		birth = "1167.1.1"
@@ -853,6 +947,8 @@ linerhudaur1 = {
 	culture = dunedain
 	
 	father = lineisildur11
+	
+	trait = blood_of_numenor
 
 	742.1.1 = {
 		birth = "742.1.1"
@@ -870,6 +966,8 @@ linerhudaur2 = {
 	culture = dunedain
 	
 	father = linerhudaur1
+	
+	trait = blood_of_numenor
 
 	831.1.1 = {
 		birth = "831.1.1"
@@ -887,6 +985,8 @@ linerhudaur3 = {
 	culture = dunedain
 	
 	father = linerhudaur2
+	
+	trait = blood_of_numenor
 
 	927.1.1 = {
 		birth = "927.1.1"
@@ -904,6 +1004,8 @@ linerhudaur4 = {
 	culture = dunedain
 	
 	father = linerhudaur3
+	
+	trait = blood_of_numenor
 
 	1034.1.1 = {
 		birth = "1034.1.1"
@@ -921,6 +1023,8 @@ linerhudaur5 = {
 	culture = dunedain
 	
 	father = linerhudaur4
+	
+	trait = blood_of_numenor
 
 	1141.1.1 = {
 		birth = "1141.1.1"

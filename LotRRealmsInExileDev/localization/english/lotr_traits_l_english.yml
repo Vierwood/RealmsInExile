@@ -1,6 +1,8 @@
 ﻿l_english:
- blood_of_numenor:0 "Blood of Númenor"
- blood_of_numenor_desc:0 ""
+ trait_blood_of_numenor:0 "Blood of Númenor"
+ trait_blood_of_numenor_desc:0 ""
+ trait_blood_of_numenor_traces:0 "Traces of Númenórean Blood"
+ trait_blood_of_numenor_traces_desc:0 ""
  trait_maia:0 "Maia"
  trait_maia_desc:0 "Those beautiful spirits which descended into Middle-earth to help shape the World. They were numerous, yet not many were named, and few took visible shapes.\n\nEach of the Maiar was associated with and served one or more of the powerful Valar."
  trait_istari:0 "Istari"

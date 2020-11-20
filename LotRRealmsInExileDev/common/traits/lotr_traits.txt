@@ -29,9 +29,40 @@ istari = {
 
 blood_of_numenor = {
 	index = 700
+	icon = actualnumenorean.dds
 	martial = 1
 	prowess = 1
 	stewardship = 2
+	
+	both_parent_has_trait_inherit_chance = 100
+	inherit_chance = 50
+	
+	negate_health_penalty_add = 0.65
+	health = 0.45
+	life_expectancy = 150
+	stress_gain_mult = -0.15
+	
+	
+	same_opinion = 25
+	same_faith_opinion = 25
+	
+	potential = {
+		lotr_numenor_culture_trigger = yes
+	}
+}
+
+blood_of_numenor_traces = {
+	index = 701
+	icon = numenorean_bloodline.dds
+	
+	both_parent_has_trait_inherit_chance = 100
+	inherit_chance = 50
+	
+	negate_health_penalty_add = 0.25
+	health = 0.2
+	life_expectancy = 80
+	stress_gain_mult = -0.05
+	
 	
 	same_opinion = 25
 	same_faith_opinion = 25
